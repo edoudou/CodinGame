@@ -1,0 +1,1 @@
+for([a,b,x,y]=readline().split` `;;)print((y-b?(y++,'S'):'')+(x-a?x>a?(x--,'W'):(x++,'E'):''))
