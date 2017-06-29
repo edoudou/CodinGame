@@ -1,11 +1,15 @@
 # CodinGame
-Solutions to CodinGame Puzzles
+Solutions to CodinGame Puzzles : https://www.codingame.com/
 
-Puzzles Solved :
+# Puzzles Solved
 - TheResistance
 - Power of Thor
 
-Shortest (Those code are made to be the shortest possible):
+# Shortest
+Those code are made to be the shortest possible
 - Power of Thor
 - Don't Panic
 - Temperatures
+
+# Bot Programming
+- TronBattle : Silver League
